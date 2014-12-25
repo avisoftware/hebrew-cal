@@ -1,0 +1,11 @@
+*.o
+moc_*.cpp
+ui_*.h
+Makefile
+debian/files
+debian/hebrew-cal.debhelper.log
+debian/hebrew-cal.substvars
+debian/hebrew-cal/
+src/Makefile
+src/hebrew-cal
+src/qrc_rc.cpp
