@@ -1,0 +1,20 @@
+Source: hebrew-cal
+Section: misc
+Priority: optional
+Maintainer: Avi Software <avisoftware123@gmail.com>
+Homepage: https://github.com/avi-software/hebrew-cal
+Build-Depends: debhelper (>= 9),qtbase5-dev,libhdate-dev
+Standards-Version: 3.9.6
+
+Package: hebrew-cal
+Architecture: any
+Multi-Arch: foreign
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Hebrew Calendar
+ hebrew-cal is a beautifully designed Hebrew calendar
+ which is very easy to use and customize.
+ The calendar includes Hebrew dates, holidays,
+ times, Parshiot Hashavua, Daf Yomi, and more.
+ .
+ The appearance can be changed, the colors are editable
+ and calendars can be printed.

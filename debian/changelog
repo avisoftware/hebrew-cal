@@ -1,0 +1,15 @@
+hebrew-cal (1.1-1) unstable; urgency=low
+
+  * update control file
+  * add man file
+  * add watch file
+  * depend on hdate
+  * change to quilt
+
+ -- Avi Software <avisoftware123@gmail.com>  Wed, 07 Jan 2015 12:55:27 +0200
+
+hebrew-cal (1.0) unstable; urgency=low
+
+  * Initial release (Closes: #773822)
+
+ -- Avi Software <avisoftware123@gmail.com>  Tue, 23 Dec 2014 10:06:13 +0200
