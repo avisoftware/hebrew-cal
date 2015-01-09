@@ -1,9 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=hebrew-cal
-Comment=Hebrew Calendar application
-Exec=hebrew-cal
-Icon=/usr/share/pixmaps/hebrew-cal_128.png
-Type=Application
-Categories=Office;
-Name[he]=לוח שנה עברי
