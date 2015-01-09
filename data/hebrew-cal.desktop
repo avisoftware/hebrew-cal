@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=hebrew-cal
+Comment=Hebrew Calendar application
+Exec=hebrew-cal
+Icon=/usr/share/pixmaps/hebrew-cal_128.png
+Type=Application
+Keywords=calendar;time;date;
+Categories=Office;
+

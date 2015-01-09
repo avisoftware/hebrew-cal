@@ -1,0 +1,17 @@
+hebrew-cal
+=====================
+
+CONTENTS
+========
+1] Description
+
+
+1] Description
+==============
+hebrew-cal, It is beautifully designed Hebrew calendar, and very easy to use, and to customize.
+The calendar includes Hebrew dates, holidays, times, Parshiot Hashavua, Daf Yomi, and more.
+
+The Appearance can be changed, and the colors are editable, and calendars can be printed.
+
+It is written in C++ by QT.
+It is depend on the libhdate AND build-depend on libhdate-dev.
