@@ -1,3 +1,9 @@
+hebrew-cal (1.1-2) unstable; urgency=low
+
+  * fix watch file
+
+ -- Avi Software <avisoftware123@gmail.com>  Mon, 12 Jan 2015 08:53:18 +0200
+
 hebrew-cal (1.1-1) unstable; urgency=low
 
   * update control file
